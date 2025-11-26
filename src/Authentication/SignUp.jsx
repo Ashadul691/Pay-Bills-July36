@@ -189,7 +189,7 @@ const SignUp = () => {
                   onKeyPress={handleKeyPress}
                   required
                   className="input-glow w-full pl-10 pr-4 py-3 bg-white/10 border border-purple-300/30 rounded-xl text-white placeholder-purple-300/50 focus:outline-none focus:border-purple-400 transition-all duration-300"
-                  placeholder="John Doe"
+                  placeholder="Ashadul islam"
                 />
               </div>
             </div>
@@ -211,7 +211,7 @@ const SignUp = () => {
                   onKeyPress={handleKeyPress}
                   required
                   className="input-glow w-full pl-10 pr-4 py-3 bg-white/10 border border-purple-300/30 rounded-xl text-white placeholder-purple-300/50 focus:outline-none focus:border-purple-400 transition-all duration-300"
-                  placeholder="you@example.com"
+                  placeholder="ashadulislam691@gmail.com"
                 />
               </div>
             </div>

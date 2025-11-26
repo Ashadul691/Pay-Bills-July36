@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "bill_type": "electricity",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png",
+    "organization": "DESCO",
+    "amount": 1890,
+    "due_date": "2025-09-30T23:59:59.000Z"
+  },
+  {
+    "id": 2,
+    "bill_type": "gas",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2737/2737215.png",
+    "organization": "Titas Gas",
+    "amount": 1488,
+    "due_date": "2025-09-28T23:59:59.000Z"
+  },
+  {
+    "id": 3,
+    "bill_type": "internet",
+    "icon": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "organization": "Link3",
+    "amount": 1200,
+    "due_date": "2025-09-25T23:59:59.000Z"
+  },
+  {
+    "id": 4,
+    "bill_type": "water",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2913/2913412.png",
+    "organization": "WASA",
+    "amount": 980,
+    "due_date": "2025-09-20T23:59:59.000Z"
+  },
+  {
+    "id": 5,
+    "bill_type": "credit_card",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+    "organization": "BRAC Bank",
+    "amount": 5600,
+    "due_date": "2025-09-26T23:59:59.000Z"
+  },
+  {
+    "id": 6,
+    "bill_type": "tuition",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2972/2972356.png",
+    "organization": "ABC International School",
+    "amount": 7500,
+    "due_date": "2025-09-15T23:59:59.000Z"
+  },
+  {
+    "id": 7,
+    "bill_type": "electricity",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png",
+    "organization": "NESCO",
+    "amount": 2150,
+    "due_date": "2025-09-22T23:59:59.000Z"
+  },
+  {
+    "id": 8,
+    "bill_type": "internet",
+    "icon": "https://cdn-icons-png.flaticon.com/512/869/869869.png",
+    "organization": "Amber IT",
+    "amount": 1350,
+    "due_date": "2025-09-27T23:59:59.000Z"
+  }
+]
